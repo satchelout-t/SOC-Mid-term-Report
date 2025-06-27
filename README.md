@@ -4,7 +4,7 @@ This repository documents my progress in the **SoC project – ChatGPT from Scra
 
 ---
 
-## ✅ Progress Summary
+##  Progress Summary
 
 ### Week 1: Python & Data Science Basics
 - Refreshed core Python concepts
@@ -35,7 +35,7 @@ This repository documents my progress in the **SoC project – ChatGPT from Scra
 
 ---
 
-## 📂 Repo Structure (to be updated)
+##  Repo Structure (to be updated)
 - `week_1/` – Python & DS Basics  
 - `week_2_3/` – Neural Networks (StatQuest)  
 - `week_4/` – Backpropagation  
@@ -43,7 +43,7 @@ This repository documents my progress in the **SoC project – ChatGPT from Scra
 
 ---
 
-## 🔜 Next Steps
+##  Next Steps
 - Continue building with PyTorch
 - Start learning about transformers and attention
 - Begin implementing a basic language model
