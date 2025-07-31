@@ -64,9 +64,9 @@ A video recording of the live demonstration is available in the project's shared
 
 This project successfully demonstrates that a character-level Transformer model can learn and reproduce complex stylistic patterns. For future improvements, subword tokenization and a larger model scale could be explored.
 
-## 8. Instructions to Run
+## 7. Instructions to Run
 
-1.  Ensure you have Python, PyTorch, and Jupyter Notebook installed.
-2.  Place all project files (`.ipynb`, `.txt`, `.pth`) in the same directory.
-3.  To see the *Mission: Impossible* model train and generate, run all cells in **`Skynet.ipynb`**.
-4.  To see the *Sherlock Holmes* model generate text, run all cells in **`Skynet_SH.ipynb`**.
+1.  Download the `ALL files.zip` file from this repository.
+2.  Unzip the folder.
+3.  All necessary files (`.ipynb` notebooks, `.txt` data files, and the `.pth` model file) are located inside this folder.
+4.  To run the code, open the `.ipynb` files in Google Colab or Jupyter Notebook and upload the required data files as prompted by the code.
