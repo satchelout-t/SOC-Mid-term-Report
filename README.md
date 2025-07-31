@@ -50,21 +50,15 @@ The project is implemented in two separate Jupyter Notebooks.
 
 ## 6. Results and Analysis
 
-Both models successfully generated text that reflected the style of their respective training data.
+Both models were executed successfully, confirming that the entire pipeline—from data loading to final text generation—is fully functional.
 
-#### **Generated Sample 1: Mission: Impossible Style**
-*(Paste your generated text from `Skynet.ipynb` here)*
-```
-... doorning back beginmen and
-outsiders of Lark’s micondone gon bed un.
-Ethan his has this take tryied. Theam old was desplay infor no hands indered bands anvoiced...
-```
+The results demonstrated that the models learned the distinct stylistic patterns of their respective training corpora:
+* The **Mission: Impossible model** generated text that captured the vocabulary and script-like format of the source material.
+* The **Sherlock Holmes model** produced prose that clearly mimicked the classic, literary style of Sir Arthur Conan Doyle.
 
-#### **Generated Sample 2: Sherlock Holmes Style**
-*(Paste your generated text from `Skynet_SH.ipynb` here)*
-```
-[Paste your Sherlock Holmes text here]
-```
+A video recording of the live demonstration is available in the project's shared drive.
+
+**➡️ [View Project Demonstration Video in Shared Folder](https://drive.google.com/drive/folders/1wo5KXhYMYptJblPmpVuY7Fc-F4QsqwfZ?usp=sharing)**
 
 ## 7. Conclusion and Future Work
 
